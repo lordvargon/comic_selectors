@@ -2133,5 +2133,20 @@
   "nextIndex":"0",
   "lastSelector":"http://requiem.seraph-inn.com/viewcomic.php",
   "lastIndex":"-1"
+},
+  {
+ "url":"http://www.scarygoround.com/",
+  "title":"SCARY GO ROUND",
+  "imageUrl":"http://www.scarygoround.com/strips/20170425.png",
+  "imageSelector":"img.comicimg",
+  "imageIndex":"0",
+  "firstSelector":"a.navlink",
+  "firstIndex":"0",
+  "prevSelector":"a.navlink",
+  "prevIndex":"0",
+  "nextSelector":"a.navlink",
+  "nextIndex":"0",
+  "lastSelector":"a.navlink",
+  "lastIndex":"0"
 }
 ]
